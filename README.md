@@ -3,9 +3,6 @@
 # 💫 About Me:
 🔭 I’m currently working on web3/web2<br>👯 I’m looking for SDE job<br>🌱 I’m currently learning web3/2<br>💬 Ask me about DSA
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishalgangwarv31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-76a554231/) 
 
