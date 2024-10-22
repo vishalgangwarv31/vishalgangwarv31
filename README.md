@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on web3/web2<br>👯 I’m looking for SDE job<br>🌱 I’m currently learning web3/2<br>💬 Ask me about DSA
+👯 I’m looking for SDE job<br>🌱 I’m currently learning web3<br>💬 Ask me anything about DSA
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-76a554231/) 
